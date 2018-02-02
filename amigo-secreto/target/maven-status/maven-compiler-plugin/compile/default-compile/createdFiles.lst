@@ -1,0 +1,3 @@
+br\com\amigosecreto\util\jsf\JsfExceptionHandlerFactory.class
+br\com\amigosecreto\util\jsf\JsfExceptionHandler.class
+br\com\amigosecreto\service\NegocioException.class
