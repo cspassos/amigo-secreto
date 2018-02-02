@@ -1,3 +1,10 @@
+br\com\amigosecreto\service\ParticipanteService.class
 br\com\amigosecreto\util\jsf\JsfExceptionHandlerFactory.class
-br\com\amigosecreto\util\jsf\JsfExceptionHandler.class
+br\com\amigosecreto\beans\SorteioBean.class
+br\com\amigosecreto\model\Sorteio.class
+br\com\amigosecreto\model\Participante.class
 br\com\amigosecreto\service\NegocioException.class
+br\com\amigosecreto\model\Par.class
+br\com\amigosecreto\dao\ParticipanteDao.class
+br\com\amigosecreto\beans\ParticipanteBean.class
+br\com\amigosecreto\util\jsf\JsfExceptionHandler.class
